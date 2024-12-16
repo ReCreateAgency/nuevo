@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f7f7f7;
+    background-color: #d6f2fa;
     color: #333;
     margin: 0;
     padding: 0;
@@ -37,7 +37,7 @@ body {
     transition: background-color 0.3s, transform 0.3s;
 }
 .redirect-button:hover {
-    background-color: #ff1493;
+    background-color: #d35ef7;
     transform: scale(1.05);
 }
 .redirect-button:active {
